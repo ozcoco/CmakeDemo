@@ -1,1 +1,1 @@
-/usr/bin/c++     CMakeFiles/CppDemo4.dir/main.cpp.o  -o CppDemo4 
+/usr/bin/c++   -O3   CMakeFiles/CppDemo4.dir/main.cpp.o  -o CppDemo4 

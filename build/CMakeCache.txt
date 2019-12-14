@@ -14,6 +14,30 @@
 # EXTERNAL cache entries
 ########################
 
+//Path to a file.
+AVCODEC_INCLUDE_DIR:PATH=AVCODEC_INCLUDE_DIR-NOTFOUND
+
+//Path to a library.
+AVCODEC_LIBRARY:FILEPATH=AVCODEC_LIBRARY-NOTFOUND
+
+//Path to a file.
+AVDEVICE_INCLUDE_DIR:PATH=AVDEVICE_INCLUDE_DIR-NOTFOUND
+
+//Path to a library.
+AVDEVICE_LIBRARY:FILEPATH=AVDEVICE_LIBRARY-NOTFOUND
+
+//Path to a file.
+AVFORMAT_INCLUDE_DIR:PATH=AVFORMAT_INCLUDE_DIR-NOTFOUND
+
+//Path to a library.
+AVFORMAT_LIBRARY:FILEPATH=AVFORMAT_LIBRARY-NOTFOUND
+
+//Path to a file.
+AVUTIL_INCLUDE_DIR:PATH=AVUTIL_INCLUDE_DIR-NOTFOUND
+
+//Path to a library.
+AVUTIL_LIBRARY:FILEPATH=AVUTIL_LIBRARY-NOTFOUND
+
 //Path to a program.
 CMAKE_AR:FILEPATH=/usr/bin/ar
 
@@ -187,6 +211,9 @@ CppDemo4_BINARY_DIR:STATIC=/mnt/f/Workspace/cppdemo/CppDemo4/build
 //Value Computed by CMake
 CppDemo4_SOURCE_DIR:STATIC=/mnt/f/Workspace/cppdemo/CppDemo4
 
+//The directory containing a CMake configuration file for FFmpeg.
+FFmpeg_DIR:PATH=FFmpeg_DIR-NOTFOUND
+
 //Path to a file.
 JAVA_AWT_INCLUDE_PATH:PATH=JAVA_AWT_INCLUDE_PATH-NOTFOUND
 
@@ -202,6 +229,12 @@ JAVA_INCLUDE_PATH2:PATH=JAVA_INCLUDE_PATH2-NOTFOUND
 //Path to a library.
 JAVA_JVM_LIBRARY:FILEPATH=JAVA_JVM_LIBRARY-NOTFOUND
 
+//Path to a file.
+JPEG_INCLUDE_DIR:PATH=JPEG_INCLUDE_DIR-NOTFOUND
+
+//Path to a library.
+JPEG_LIBRARY:FILEPATH=JPEG_LIBRARY-NOTFOUND
+
 //The directory containing a CMake configuration file for OpenCV.
 OpenCV_DIR:PATH=OpenCV_DIR-NOTFOUND
 
@@ -213,6 +246,9 @@ TEST_PATH:PATH=/mnt/f/Workspace/cppdemo/CppDemo4/cmake
 
 //The directory containing a CMake configuration file for cmake.
 cmake_DIR:PATH=cmake_DIR-NOTFOUND
+
+//The directory containing a CMake configuration file for jpeg.
+jpeg_DIR:PATH=jpeg_DIR-NOTFOUND
 
 
 ########################
