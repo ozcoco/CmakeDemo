@@ -1,0 +1,3 @@
+/mnt/f/Workspace/cppdemo/CppDemo4/build/CMakeFiles/rebuild_cache.dir
+/mnt/f/Workspace/cppdemo/CppDemo4/build/CMakeFiles/CppDemo4.dir
+/mnt/f/Workspace/cppdemo/CppDemo4/build/CMakeFiles/edit_cache.dir
